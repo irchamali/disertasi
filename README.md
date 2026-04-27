@@ -11,6 +11,6 @@
 
 ## Publikasi 
 
-| #  | Type        | Title  | Status | Publisher | Link |
-|----|-------------|--------|--------|-----------|------|
-| 1  | Prosiding   | Hidden | Accepted and Presented | IEEE | soon.. |
+| #  | Type        | Title  | Status | Publisher | Date | Link |
+|----|-------------|--------|--------|-----------|------| ------|
+| 1  | Prosiding   | Performance Enhancement of Wireless Sensor Networks Using a Multi-Channel Gaussian Mixture Model | Published | IEEE | 16 April 2026 | [https://ieeexplore.ieee.org/abstract/document/11469918](https://ieeexplore.ieee.org/abstract/document/11469918) |
