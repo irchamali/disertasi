@@ -8,8 +8,8 @@
 |  2  | 2026-03-09  | All          | Kesedian Pembimbing (Promotor dan CoPromotor)  | Setuju | Online | - |
 |  3  | 2026-04-17  | Promotor     | Bimbingan proposal #v1   | Revisi | FSM Undip | Setuju Novelty, perlu perbaikan judul dan penyesuaian isi proposal dengan mengedepankan pengembangan model AI|
 |  4  | 2026-04-17  | Co-Promotor  | Bimbingan proposal #v1   | Revisi | Online | Perkuat transmisi data dan ikuti petunjuk promotor terlebih dahulu |
-|  5  | 2026-06-04  | Promotor     | Bimbingan proposal #v2   | Acc  | Online | Persiapkan objek penelitian smart greenhouse untuk lokasi penelitian |
-|  6  | 2026-06-04  | Co-Promotor  | Bimbingan proposal #v2   | Acc + Revisi | Online | Perbaikan abstrak dan persiapan data untuk simulasi  |
+|  5  | 2026-06-04  | Promotor     | Bimbingan proposal #v2   | Acc  | FSM Undip | Persiapkan smart greenhouse untuk validasi penelitian |
+|  6  | 2026-06-04  | Co-Promotor  | Bimbingan proposal #v2   | Acc + Revisi | SPs Undip | Perbaikan abstrak, penyesuaian isi proposal, dan persiapan data untuk simulasi  |
 
 ## Publikasi 
 
